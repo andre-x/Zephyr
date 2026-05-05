@@ -1,0 +1,10 @@
+#Ignore Zephyr build folder
+build/
+**/build/
+
+#Python cache
+__pycache__/
+*.pyc
+
+#IDE files
+.vscode/
